@@ -30,7 +30,11 @@ News
 Selected Publications
 ------
 * __Weiran Chen__, Jiaqi Su, Weitao Song, Jialiang Xu, Guiqian Zhu, Ying Li, Yi Ji, & Chunping Liu. Quality evaluation methods of handwritten Chinese characters: a comprehensive survey. (Multimedia Systems) [PDF](https://link.springer.com/article/10.1007/s00530-024-01396-8)
-* Jialiang Xu, __Weiran Chen__, Lingbing Xu, Weitao Song, Yi Ji, Ying Li, & Chunping Liu. MAGIC: Multi-prompt Any Length Video Generation Model with Controllable Inter-frame Correlation and Low Barrier. (ICANN 2024) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-72338-4_23)   
+* __Weiran Chen__, Xin Li, Jiaqi Su, Guiqian Zhu, Ying Li, Yi Ji, & Chunping Liu. TARN-VIST: Topic Aware Reinforcement Network for Visual Storytelling. (COLING 2024) [PDF](https://aclanthology.org/2024.lrec-main.1358/)
+* Jialiang Xu, __Weiran Chen__, Lingbing Xu, Weitao Song, Yi Ji, Ying Li, & Chunping Liu. MAGIC: Multi-prompt Any Length Video Generation Model with Controllable Inter-frame Correlation and Low Barrier. (ICANN 2024) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-72338-4_23)
+* Weitao Song, __Weiran Chen__, Jialiang Xu, Yi Ji, Ying Li, & Chunping Liu. Uncertainty-Aware with Negative Samples for Video-Text Retrieval. (PRCV 2024) [PDF](https://link.springer.com/chapter/10.1007/978-981-97-8620-6_22)
+* Jiaqi Su, __Weiran Chen__, Yi Ji, & Chunping Liu. Glocal Cascading Network for Topic Enhanced Visual Storytelling. (ICASSP 2024) [PDF](https://ieeexplore.ieee.org/document/10447361)
+* __Weiran Chen__, Yi Ji, & Chunping Liu. Chinese Character Style Transfer Model Based on Convolutional Neural Network. (ICANN 2022) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_47)   
 
 Create content & metadata
 ------
