@@ -21,9 +21,9 @@ repository               : "wrchen2001/wrchen2001.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "chenweiran.png"
   name             : "Weiran Chen (陈魏然)"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Postgraduate student"
   location         : "Suzhou, Jiangsu, China"
   employer         : "Soochow University"
