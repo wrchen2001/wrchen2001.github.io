@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Weiran Chen, an Master Degree Candidate at [School of Computer Science and Technology, Soochow University](https://scst.suda.edu.cn/), supervised by [Prof. Chunping Liu](https://web.suda.edu.cn/cpliu/), [Assoc.Prof. Yi Ji](https://scst.suda.edu.cn/0e/3a/c11250a527930/page.htm), [Assoc.Prof. Ying Li](https://scst.suda.edu.cn/10/65/c11250a528485/page.htm) and Lecturer. Guiqian Zhu. Before this, I obtained Bachelor Degree (2019-2023, Artificial Intelligence) from [Soochow University](https://www.suda.edu.cn/).  
+Hi, I am Weiran Chen, a postgraduate student at [School of Computer Science and Technology, Soochow University](https://scst.suda.edu.cn/), supervised by [Prof. Chunping Liu](https://web.suda.edu.cn/cpliu/), [Assoc.Prof. Yi Ji](https://scst.suda.edu.cn/0e/3a/c11250a527930/page.htm), [Assoc.Prof. Ying Li](https://scst.suda.edu.cn/10/65/c11250a528485/page.htm) and Lecturer. Guiqian Zhu. Before this, I obtained my Bachelor Degree (2019-2023, Artificial Intelligence) from [Soochow University](https://www.suda.edu.cn/).  
 
 💡 Research Interests
 ------
