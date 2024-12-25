@@ -11,7 +11,7 @@ Hi, I am Weiran Chen, a postgraduate student at [School of Computer Science and 
 
 💡 Research Interests
 ------
-Focusing on the frontiers of artificial intelligence (AI), I aim to develop effective algorithms to advance the field of computer vision and pattern recognition, including:
+Focusing on the frontiers of artificial intelligence (AI), I aim to develop efficient algorithms to advance the field of computer vision and pattern recognition, including:
 * Multi-modality Data Analysis
 * Document Analysis and Recognition
 * Font Generation
