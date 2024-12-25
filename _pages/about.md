@@ -15,7 +15,7 @@ Focusing on interdisciplinary field of artificial intelligence (AI), aiming to d
 
 News
 ======
-\cdot [10/2024]
+\. [10/2024]
 
 Selected Publications
 ------
