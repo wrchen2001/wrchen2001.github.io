@@ -29,7 +29,8 @@ News
 
 Selected Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* __Weiran Chen__, Jiaqi Su, Weitao Song, Jialiang Xu, Guiqian Zhu, Ying Li, Yi Ji, & Chunping Liu. Quality evaluation methods of handwritten Chinese characters: a comprehensive survey. (Multimedia Systems) [PDF](https://link.springer.com/article/10.1007/s00530-024-01396-8)
+* Jialiang Xu, __Weiran Chen__, Lingbing Xu, Weitao Song, Yi Ji, Ying Li, & Chunping Liu. MAGIC: Multi-prompt Any Length Video Generation Model with Controllable Inter-frame Correlation and Low Barrier. (ICANN 2024) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-72338-4_23)   
 
 Create content & metadata
 ------
