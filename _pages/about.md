@@ -36,9 +36,16 @@ Selected Publications
 * Jiaqi Su, __Weiran Chen__, Yi Ji, & Chunping Liu. Glocal Cascading Network for Topic Enhanced Visual Storytelling. (ICASSP 2024) [PDF](https://ieeexplore.ieee.org/document/10447361)
 * __Weiran Chen__, Yi Ji, & Chunping Liu. Chinese Character Style Transfer Model Based on Convolutional Neural Network. (ICANN 2022) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_47)   
 
-Create content & metadata
+Journal & Conference Reviews
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)
+* [Applied Intelligence](https://link.springer.com/journal/10489)
+* [Applied Sciences](https://www.mdpi.com/journal/applsci)
+* [Knowledge-Based Systems](https://ieeexplore.ieee.org/document/10807685)
+* [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/document/10807685)
+* [IEEE International Conference on Multimedia & Expo](https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings)
+* [International Conference on Multimedia Retrieval](https://dl.acm.org/conference/icmr)
+* [International Conference on Artificial Neural Networks](https://e-nns.org/icanns/)
 
 **Markdown generator**
 
