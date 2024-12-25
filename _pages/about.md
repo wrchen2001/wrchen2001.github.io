@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Weiran Chen is an Master Degree Candidate at [School of Computer Science and Technology, Soochow University](https://scst.suda.edu.cn/), supervised by [Prof. Chunping Liu](https://web.suda.edu.cn/cpliu/), [Assoc.Prof. Yi Ji](https://scst.suda.edu.cn/0e/3a/c11250a527930/page.htm), [Assoc.Prof. Ying Li](https://scst.suda.edu.cn/10/65/c11250a528485/page.htm) and Lecturer. Guiqian Zhu. Before this, he obtained Bachelor Degree (2019-2023, Artificial Intelligence) from [Soochow University](https://www.suda.edu.cn/).  
+Hi, I am Weiran Chen, an Master Degree Candidate at [School of Computer Science and Technology, Soochow University](https://scst.suda.edu.cn/), supervised by [Prof. Chunping Liu](https://web.suda.edu.cn/cpliu/), [Assoc.Prof. Yi Ji](https://scst.suda.edu.cn/0e/3a/c11250a527930/page.htm), [Assoc.Prof. Ying Li](https://scst.suda.edu.cn/10/65/c11250a528485/page.htm) and Lecturer. Guiqian Zhu. Before this, I obtained Bachelor Degree (2019-2023, Artificial Intelligence) from [Soochow University](https://www.suda.edu.cn/).  
 
 Research Interests
 ------
@@ -16,11 +16,12 @@ Focusing on interdisciplinary field of artificial intelligence (AI), aiming to d
 News
 ------
 * [10/2024]
-* [06/2024] One paper on video generation was accepted in __ICANN 2024__.
-* [06/2024] One paper on video-text retrieval was accpeted in __PRCV 2024__.
-* [05/2025] One paper on image quality assessment was accepted in __Multimedia Systems__.
-* [02/2025] One paper on visual storytelling was accepted in __COLING 2024__.
-* [
+* [06/2024] One paper on video generation was accepted by __ICANN 2024__.
+* [06/2024] One paper on video-text retrieval was accpeted by __PRCV 2024__.
+* [05/2024] One paper on image quality assessment was accepted by __Multimedia Systems__.
+* [02/2024] One paper on visual storytelling was accepted by __COLING 2024__.
+* [12/2023] One paper on visual storytelling was accepted by __ICASSP 2024__.
+* [07/2022] One paper on font generation was accepted by __ICANN 2022__.
 
 Selected Publications
 ------
