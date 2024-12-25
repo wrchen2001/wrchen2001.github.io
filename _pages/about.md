@@ -26,6 +26,7 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effe
 * [05/2024] Obtain one Jiangsu Province Scientific Research Practice Innovation Plan.
 * [02/2024] One paper on visual storytelling was accepted by __COLING 2024__.
 * [12/2023] One paper on visual storytelling was accepted by __ICASSP 2024__.
+* [06/2023] Obtain Bachelor Degree of Artificial Intelligence from Soochow University, a new journey begins!
 * [07/2022] One paper on font generation was accepted by __ICANN 2022__.
 
 📝 Selected Publications
@@ -51,8 +52,16 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effe
 🎖 Honors and Awards
 ------
 * National Scholarship in China (2024)
-
+* Excellent graduate student of Soochow University (2024)
+* Outstanding Volunteer of Soochow University Graduate Union (2024)
+* The Huawei Smart Base Scholarship (2023)
+* Soochow University Graduate Outstanding Scholarship (Rank 2st) (2023)
+* Outstanding undergraduate graduation project (2023)
+* China Market Research and Analysis Competition - Third Prize (National Level) (2022)
+* Soochow University Innovation and Entrepreneurship Scholarship (Rank 1st) (2022) 
 * The Jingwen Zhu Scholarship (2022)
+* Soochow University Undergraduate Outstanding Scholarship (Rank 2st) (2022, 2021)
+* Soochow University Spiritual Civilization Scholarship (2022, 2021)
 
 📖 Education
 ------
@@ -61,4 +70,4 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effe
 
 🌈 Miscellaneous
 ------
-I’m passionate about two things: social volunteering and sports! With over 600 hours of volunteering experience, I’ve had the privilege of serving as the Student Council President and interning at the United Nations. In my downtime, staying active is my go-to. Without any special circumstances, I make sure to exercise for at least an hour every day. Some of my favorite activities include 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking. For me, there’s nothing quite like the thrill of pushing my limits and enjoying the outdoors!
+I’m passionate about two things: reading books and sports! In my downtime, staying active is my go-to. Without any special circumstances, I make sure to exercise for at least an hour every day. Some of my favorite activities include 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking. For me, there’s nothing quite like the thrill of pushing my limits and enjoying the outdoors!
