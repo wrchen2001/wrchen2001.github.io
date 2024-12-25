@@ -26,7 +26,7 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effe
 * [05/2024] Obtain one Jiangsu Province Scientific Research Practice Innovation Plan.
 * [02/2024] One paper on visual storytelling was accepted by __COLING 2024__.
 * [12/2023] One paper on visual storytelling was accepted by __ICASSP 2024__.
-* [06/2023] Obtain Bachelor Degree of Artificial Intelligence from Soochow University, a new journey begins!
+* [06/2023] Obtain Bachelor Degree of Artificial Intelligence from Soochow University, a brand new journey begins!
 * [07/2022] One paper on font generation was accepted by __ICANN 2022__.
 
 📝 Selected Publications
