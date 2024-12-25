@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am Weiran Chen, an Master Degree Candidate at [School of Computer Science and Technology, Soochow University](https://scst.suda.edu.cn/), supervised by [Prof. Chunping Liu](https://web.suda.edu.cn/cpliu/), [Assoc.Prof. Yi Ji](https://scst.suda.edu.cn/0e/3a/c11250a527930/page.htm), [Assoc.Prof. Ying Li](https://scst.suda.edu.cn/10/65/c11250a528485/page.htm) and Lecturer. Guiqian Zhu. Before this, I obtained Bachelor Degree (2019-2023, Artificial Intelligence) from [Soochow University](https://www.suda.edu.cn/).  
 
-Research Interests
+💡Research Interests
 ------
 Focusing on the frontiers of artificial intelligence (AI), I aim to develop effective algorithms to advance the field of computer vision and pattern recognition, including:
 * Multi-modality Data Analysis
@@ -17,7 +17,7 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effe
 * Font Generation
 * Image Quality Assessment
 
-News
+🔥News
 ------
 * [10/2024] Obtain __National Scholarship in China__, a new chapter starts! 
 * [06/2024] One paper on video generation was accepted by __ICANN 2024__.
@@ -28,7 +28,7 @@ News
 * [12/2023] One paper on visual storytelling was accepted by __ICASSP 2024__.
 * [07/2022] One paper on font generation was accepted by __ICANN 2022__.
 
-Selected Publications
+📝Selected Publications
 ------
 * __Weiran Chen__, Jiaqi Su, Weitao Song, Jialiang Xu, Guiqian Zhu, Ying Li, Yi Ji, & Chunping Liu. Quality evaluation methods of handwritten Chinese characters: a comprehensive survey. (Multimedia Systems) [PDF](https://link.springer.com/article/10.1007/s00530-024-01396-8)
 * __Weiran Chen__, Xin Li, Jiaqi Su, Guiqian Zhu, Ying Li, Yi Ji, & Chunping Liu. TARN-VIST: Topic Aware Reinforcement Network for Visual Storytelling. (COLING 2024) [PDF](https://aclanthology.org/2024.lrec-main.1358/)
@@ -37,7 +37,7 @@ Selected Publications
 * Jiaqi Su, __Weiran Chen__, Yi Ji, & Chunping Liu. Glocal Cascading Network for Topic Enhanced Visual Storytelling. (ICASSP 2024) [PDF](https://ieeexplore.ieee.org/document/10447361)
 * __Weiran Chen__, Yi Ji, & Chunping Liu. Chinese Character Style Transfer Model Based on Convolutional Neural Network. (ICANN 2022) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_47)   
 
-Journal & Conference Reviews
+📧Journal & Conference Reviews
 ------
 * [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)
 * [Applied Intelligence](https://link.springer.com/journal/10489)
@@ -48,17 +48,17 @@ Journal & Conference Reviews
 * [International Conference on Multimedia Retrieval](https://dl.acm.org/conference/icmr)
 * [International Conference on Artificial Neural Networks](https://e-nns.org/icanns/)
 
-Honors and Awards
+🎖Honors and Awards
 ------
 * National Scholarship in China (2024)
 
 * The Jingwen Zhu Scholarship (2022)
 
-Education
+📖Education
 ------
 * 2023.09 - current, Third-year Master, School of Computer Science and Technology, Soochow University, Suzhou, Jiangsu, China.
 * 2019.09 - 2023.06, Bachelor, School of Computer Science and Technology, Soochow University, Suzhou, Jiangsu, China.
 
-Miscellaneous
+🌈Miscellaneous
 ------
 I’m passionate about two things: social volunteering and sports! With over 600 hours of volunteering experience, I’ve had the privilege of serving as the Student Council President and interning at the United Nations. In my downtime, staying active is my go-to. Without any special circumstances, I make sure to exercise for at least an hour every day. Some of my favorite activities include 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking. For me, there’s nothing quite like the thrill of pushing my limits and enjoying the outdoors!
