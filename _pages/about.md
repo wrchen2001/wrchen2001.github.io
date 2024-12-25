@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Weiran Chen is an Master Degree Candidate at [School of Computer Science and Technology, Soochow University](https://scst.suda.edu.cn/), supervised by [Prof. Chunping Liu](https://web.suda.edu.cn/cpliu/), [Assoc.Prof. Yi Ji](https://scst.suda.edu.cn/0e/3a/c11250a527930/page.htm), [Assoc.Prof.Ying Li](https://scst.suda.edu.cn/10/65/c11250a528485/page.htm) and Lecturer Guiqian Zhu. Before this, he obtained Bachelor Degree (2019-2023, Artificial Intelligence) from [Soochow University](https://www.suda.edu.cn/).  
 
 A data-driven personal website
 ======
