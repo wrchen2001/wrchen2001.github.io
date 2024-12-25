@@ -16,9 +16,11 @@ Focusing on interdisciplinary field of artificial intelligence (AI), aiming to d
 News
 ------
 * [10/2024]
-* [06/2024] One paper on video generation was accepted in __ICANN__ !
-* [06/2024] One paper on video-text retrieval was accpeted in __PRCV__ !
-* [05/2025] One paper on image quality assessment was accepted in __Multimedia System__ !
+* [06/2024] One paper on video generation was accepted in __ICANN 2024__.
+* [06/2024] One paper on video-text retrieval was accpeted in __PRCV 2024__.
+* [05/2025] One paper on image quality assessment was accepted in __Multimedia Systems__.
+* [02/2025] One paper on visual storytelling was accepted in __COLING 2024__.
+* [
 
 Selected Publications
 ------
