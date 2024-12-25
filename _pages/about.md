@@ -16,6 +16,7 @@ Focusing on interdisciplinary field of artificial intelligence (AI), aiming to d
 News
 ======
 * [10/2024]
+* [06/2024] One paper on video generation was accepted in __ICANN__!
 
 Selected Publications
 ------
