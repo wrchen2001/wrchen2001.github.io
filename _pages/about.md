@@ -70,6 +70,4 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 
 🌈 Miscellaneous
 ------
-I’m passionate about two things: reading books and sports! I believe life is about more than just work and study, it's about pursuing what you love. Reading lets me explore new worlds, while sports keep me energized and stress-free. Whether it’s running ![00244A77](https://github.com/user-attachments/assets/af4b2c3b-f047-4934-9609-c9df9a478047)
-, football ![00246FA3](https://github.com/user-attachments/assets/2f5bb6e6-97ec-446c-84bc-eb0ac53146d6)
-, or a casual game of badminton , I enjoy staying active. Sports teach me valuable lessons in teamwork and communication, which help me excel in all areas of life. My passion for books and sports keeps me motivated and ready for any challenge.
+I’m passionate about two things: reading books and sports! I believe life is about more than just work and study, it's about pursuing what you love. Reading lets me explore new worlds, while sports keep me energized and stress-free. Whether it’s running or a casual game of badminton, I enjoy staying active. Sports teach me valuable lessons in teamwork and communication, which help me excel in all areas of life. My passion for books and sports keeps me motivated and ready for any challenge.
