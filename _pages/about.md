@@ -15,10 +15,10 @@ Focusing on interdisciplinary field of artificial intelligence (AI), aiming to d
 
 News
 ------
-* [10/2024]
 * [06/2024] One paper on video generation was accepted by __ICANN 2024__.
 * [06/2024] One paper on video-text retrieval was accpeted by __PRCV 2024__.
 * [05/2024] One paper on image quality assessment was accepted by __Multimedia Systems__.
+* [05/2024] Obtain one Jiangsu Province Scientific Research Practice Innovation Plan.
 * [02/2024] One paper on visual storytelling was accepted by __COLING 2024__.
 * [12/2023] One paper on visual storytelling was accepted by __ICASSP 2024__.
 * [07/2022] One paper on font generation was accepted by __ICANN 2022__.
