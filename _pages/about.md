@@ -52,7 +52,7 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 🎖 Honors and Awards
 ------
 * National Scholarship in China (2024)
-* Excellent graduate student of Soochow University (2024)
+* Excellent postgraduate student of Soochow University (2024)
 * Outstanding Volunteer of Soochow University Graduate Union (2024)
 * The Huawei Smart Base Scholarship (2023)
 * Soochow University Graduate Outstanding Scholarship (Rank 2st) (2023)
