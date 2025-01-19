@@ -38,7 +38,7 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 * Jiaqi Su, __Weiran Chen__, Yi Ji, & Chunping Liu. Glocal Cascading Network for Topic Enhanced Visual Storytelling. (ICASSP 2024) [PDF](https://ieeexplore.ieee.org/document/10447361)
 * __Weiran Chen__, Yi Ji, & Chunping Liu. Chinese Character Style Transfer Model Based on Convolutional Neural Network. (ICANN 2022) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_47)   
 
-📧 Journal & Conference Reviews
+📧 Journal & Conference Reviews and Services
 ------
 * [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)
 * [Applied Intelligence](https://link.springer.com/journal/10489)
@@ -55,12 +55,12 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 * Excellent postgraduate student of Soochow University (2024)
 * Outstanding Volunteer of Soochow University Graduate Union (2024)
 * The Huawei Smart Base Scholarship (2023)
-* Soochow University Graduate Outstanding Scholarship (Rank 2st) (2023)
+* Soochow University Graduate Outstanding Scholarship (Rank 2nd) (2023)
 * Outstanding undergraduate graduation project (2023)
 * China Market Research and Analysis Competition - Third Prize (National Level) (2022)
 * Soochow University Innovation and Entrepreneurship Scholarship (Rank 1st) (2022) 
 * The Jingwen Zhu Scholarship (2022)
-* Soochow University Undergraduate Outstanding Scholarship (Rank 2st) (2022, 2021)
+* Soochow University Undergraduate Outstanding Scholarship (Rank 2nd) (2022, 2021)
 * Soochow University Spiritual Civilization Scholarship (2022, 2021)
 
 📖 Education
@@ -70,4 +70,4 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 
 🌈 Miscellaneous
 ------
-I’m passionate about two things: reading books and sports! I believe life is about more than just work and study, it's about pursuing what you love. Reading lets me explore new worlds, while sports keep me energized and stress-free. Whether it’s running or a casual game of badminton, I enjoy staying active. Sports teach me valuable lessons in teamwork and communication, which help me excel in all areas of life. My passion for books and sports keeps me motivated and ready for any challenge.
+I’m passionate about two things: reading books and sports! I believe life is about more than just work and study, it's about pursuing what you love. Reading lets me explore new worlds, while sports keep me energized and stress-free. Whether it’s running or a casual game of badminton, I enjoy staying active. Besides, Sports also teach me valuable lessons in teamwork and communication, which help me excel in all areas of life. My passion for books and sports keeps me motivated and ready for any challenge.
