@@ -19,7 +19,7 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 
 🔥 News
 ------
-* [05/2025] One paper on medical visual question answering was accepted by __ICIC 2025__.
+* [04/2025] One paper on medical visual question answering was accepted by __ICIC 2025__.
 * [10/2024] Obtain __National Scholarship in China__, a new chapter starts! 
 * [06/2024] One paper on video generation was accepted by __ICANN 2024__.
 * [06/2024] One paper on video-text retrieval was accpeted by __PRCV 2024__.
