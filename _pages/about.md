@@ -46,9 +46,10 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 * [Applied Sciences](https://www.mdpi.com/journal/applsci)
 * [Knowledge-Based Systems](https://ieeexplore.ieee.org/document/10807685)
 * [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/document/10807685)
-* [IEEE International Conference on Multimedia & Expo](https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings)
-* [International Conference on Multimedia Retrieval](https://dl.acm.org/conference/icmr)
-* [International Conference on Artificial Neural Networks](https://e-nns.org/icanns/)
+* [IEEE International Conference on Multimedia & Expo (ICME)](https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings)
+* [International Conference on Multimedia Retrieval (ICMR)](https://dl.acm.org/conference/icmr)
+* [International Conference on Artificial Neural Networks (ICANN)](https://e-nns.org/icanns/)
+* [IEEE Conference on Advanced Video and Signal Based Surveillance (AVSS)](https://ieeexplore.ieee.org/xpl/conhome/1001307/all-proceedings)
 
 🎖 Honors and Awards
 ------
