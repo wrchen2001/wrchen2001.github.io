@@ -19,6 +19,7 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 
 🔥 News
 ------
+* [07/2025] One paper on font generation was accepted by __ACM MM 2025__.
 * [06/2025] One paper on image quality assessment was accepted by __Multimedia Systems__.
 * [05/2025] One paper on medical visual question answering was accepted by __ICIP 2025__.
 * [04/2025] One paper on medical visual question answering was accepted by __ICIC 2025__.
@@ -34,6 +35,7 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 
 📝 Selected Publications
 ------
+* __Weiran Chen__, Guiqian Zhu, Ying Li, Yi Ji, & Chunping Liu. SiamHCC: a novel siamese network for quality evaluation of handwritten Chinese characters. (Multimedia Systems) [PDF](https://link.springer.com/article/10.1007/s00530-025-01886-3) [Code](https://github.com/wrchen2001/SiamHCC) 
 * __Weiran Chen__, Jiaqi Su, Weitao Song, Jialiang Xu, Guiqian Zhu, Ying Li, Yi Ji, & Chunping Liu. Quality evaluation methods of handwritten Chinese characters: a comprehensive survey. (Multimedia Systems) [PDF](https://link.springer.com/article/10.1007/s00530-024-01396-8)
 * __Weiran Chen__, Xin Li, Jiaqi Su, Guiqian Zhu, Ying Li, Yi Ji, & Chunping Liu. TARN-VIST: Topic Aware Reinforcement Network for Visual Storytelling. (COLING 2024) [PDF](https://aclanthology.org/2024.lrec-main.1358/)
 * Jialiang Xu, __Weiran Chen__, Lingbing Xu, Weitao Song, Yi Ji, Ying Li, & Chunping Liu. MAGIC: Multi-prompt Any Length Video Generation Model with Controllable Inter-frame Correlation and Low Barrier. (ICANN 2024) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-72338-4_23)
