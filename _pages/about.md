@@ -19,7 +19,7 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 
 🔥 News
 ------
-* [07/2025] One paper on font generation was accepted by __BMVC 2025___.
+* [07/2025] One paper on font generation was accepted by __BMVC 2025__.
 * [07/2025] One paper on font generation was accepted by __ACM MM 2025__.
 * [06/2025] One paper on image quality assessment was accepted by __Multimedia Systems__.
 * [05/2025] One paper on medical visual question answering was accepted by __ICIP 2025__.
