@@ -43,13 +43,16 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 * Jialiang Xu, __Weiran Chen__, Lingbing Xu, Weitao Song, Yi Ji, Ying Li, & Chunping Liu. MAGIC: Multi-prompt Any Length Video Generation Model with Controllable Inter-frame Correlation and Low Barrier. (ICANN 2024) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-72338-4_23)
 * Weitao Song, __Weiran Chen__, Jialiang Xu, Yi Ji, Ying Li, & Chunping Liu. Uncertainty-Aware with Negative Samples for Video-Text Retrieval. (PRCV 2024) [PDF](https://link.springer.com/chapter/10.1007/978-981-97-8620-6_22)
 * Jiaqi Su, __Weiran Chen__, Yi Ji, & Chunping Liu. Glocal Cascading Network for Topic Enhanced Visual Storytelling. (ICASSP 2024) [PDF](https://ieeexplore.ieee.org/document/10447361)
-* __Weiran Chen__, Yi Ji, & Chunping Liu. Chinese Character Style Transfer Model Based on Convolutional Neural Network. (ICANN 2022) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_47)   
+* __Weiran Chen__, Yi Ji, & Chunping Liu. Chinese Character Style Transfer Model Based on Convolutional Neural Network. (ICANN 2022) [PDF](https://link.springer.com/chapter/10.1007/978-3-031-15937-4_47)
+
+📜 Open-Source Projects
+------
+* __Weiran Chen__, Guiqian Zhu, Ying Li, Yi Ji, & Chunping Liu. Advancements in Chinese font generation since deep learning era: A survey. (arXiv) [PDF](https://arxiv.org/abs/2508.06900)
 
 📧 Journal & Conference Reviews and Services
 ------
 * [Computer Vision and Image Understanding](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)
 * [Applied Intelligence](https://link.springer.com/journal/10489)
-* [Applied Sciences](https://www.mdpi.com/journal/applsci)
 * [Knowledge-Based Systems](https://ieeexplore.ieee.org/document/10807685)
 * [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/document/10807685)
 * [IEEE International Conference on Multimedia & Expo (ICME)](https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings)
