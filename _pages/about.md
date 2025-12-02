@@ -19,6 +19,8 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 
 🔥 News
 ------
+* [12/2025] Obtain the academic excellence scholarship in Soochow University.
+* [11/2025] Obtain open-source scholarship in Soochow University.
 * [07/2025] One paper on font generation was accepted by __BMVC 2025__.
 * [07/2025] One paper on font generation was accepted by __ACM MM 2025__.
 * [06/2025] One paper on image quality assessment was accepted by __Multimedia Systems__.
@@ -36,6 +38,8 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 
 📝 Selected Publications
 ------
+* __Weiran Chen__, Guiqian Zhu, Ying Li, Yi Ji, & Chunping Liu. GC-Font: Few-Shot Font Generation via Global Contextual Feature Modelling. (BMVC 2025) [PDF](https://bmvc2025.bmva.org/proceedings/38/)  [Code](https://github.com/wrchen2001/GC-Font)
+* __Weiran Chen__, Guiqian Zhu, Ying Li, Yi Ji, & Chunping Liu. DA-Font: Few-Shot Font Generation via Dual-Attention Hybrid Integration. (ACM MM 2025) [PDF](https://dl.acm.org/doi/10.1145/3746027.3755056)  [Code](https://github.com/wrchen2001/DA-Font) 
 * __Weiran Chen__, Guiqian Zhu, Ying Li, Yi Ji, & Chunping Liu. SiamHCC: a novel siamese network for quality evaluation of handwritten Chinese characters. (Multimedia Systems) [PDF](https://link.springer.com/article/10.1007/s00530-025-01886-3)  [Code](https://github.com/wrchen2001/SiamHCC) 
 * Hongyi Ren, __Weiran Chen__,  Ying Li, Yi Ji, & Chunping Liu. MedKI: Knowledge Dual Injections for Medical Visual Question Answering. (ICIP 2025) [PDF](https://ieeexplore.ieee.org/document/11084480)
 * Hongyi Ren, __Weiran Chen__,  Ying Li, Yi Ji, & Chunping Liu. MedMEN: Multi-granularity Encoding Network for Medical Visual Question Answering. (ICIC 2025) [PDF](https://link.springer.com/chapter/10.1007/978-981-96-9955-1_11)
