@@ -19,6 +19,7 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 
 🔥 News
 ------
+* [12/2025] Obtain BYD Special Scholarship in Soochow University.
 * [12/2025] Obtain the academic excellence scholarship in Soochow University.
 * [11/2025] Obtain open-source scholarship in Soochow University.
 * [07/2025] One paper on font generation was accepted by __BMVC 2025__.
@@ -67,6 +68,9 @@ Focusing on the frontiers of artificial intelligence (AI), I aim to develop effi
 
 🎖 Honors and Awards
 ------
+* Soochow University BYD Special Scholarship (2026)
+* Soochow University Open-Source Scholarship (2026)
+* Soochow University Graduate Outstanding Scholarship (Rank 1nd) (2026)
 * Excellent graduate student of Soochow University (2025, 2024)
 * National Scholarship in China (2024)
 * Outstanding Volunteer of Soochow University Graduate Union (2024)
